@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5StwjZd7HyspjkvIjLTYkb3AZ7Nh1GQV/1GYwTASGRtxknpqgzuD64WelAbxmxj8b64hPryF/eKEOhXGQVmmIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\merim\\Desktop\\izbori\\lokalniIzboriVVSGrupa3Tim2\\lokalniIzboriVVSGrupa3Tim2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merim\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\merim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
